@@ -1,9 +1,6 @@
 # Ourplays-frontend
-<img src="https://lh3.googleusercontent.com/3lxczxI_1-Qwxzv-OV5AniFZed_Vmt40lgvFoLHSkJtEVN3o_NwGQsgFBoHNdSPaevQdMt7RKsA_2r_L2tfIbDNjyKCGys0xKbOhnipNoFbKZ6CZs2T8sWFxVW1DwU_RfRvBlbgmBePKBtblOcNQPN_92g249KMxoUc9nL0jNs9Ki1Y7nU0ll-xdMvqWlsMw9fDg4VieQk-204vNDutlEAAcD_qMQWRkNT7LterwwGUd-mXmox7un13BspSkteBONv7G7SbWmNJs8XUzmXdmLcg5-ziIlQBKEF5gD0BKHYK_pnW4HPMr5PiY7TTNjRpUN9nCycyyt78F1TdE8CE1QyCgPsnKzqIRyL4rsQxDS4rDUBgbrxwUrEZbXsHEpHPPGD64L0j0JCbiSflh2d9LalpQqOcKAnKRk3s1erB7lL2lT9GR9Ts5Z4lNxwK6yvag7GO4-cF816jwg3TcdrSEn0uCP3eNxlCutrIfHEioPG_zInPzGSnwUgpNctu7FPLloQJQTWsxmVIhTs5t2GUz3aMTgUTvb1-xvDtVwkbbz-5BhxQTPPICe7yvPpsHW1n1z2KogFdtw66ojdJUNfDbeMvlscVoHM3LSCR0q5ZFuTuKx6C1OhC8Juoz5vcepocE2P3nkwRa7TJdzgqzDf5VwY3FJPXQfzG0NwGo9FbbuJPf6waCG9zVU82xhj51wQ=w368-h200-no?authuser=0"/>
-
-![](https://images.velog.io/images/dongha1992/post/96c5a538-c0a2-4870-9421-7edb68ce924a/main-plz.gif)
-
-
+<a href="https://www.youtube.com/watch?v=7w4NNWwx0og&t=154s"><img src="https://i.ibb.co/rdLfYmr/image.png"></a>
+<div>👆클릭하여 영상으로 이동</div>
 
 ## OurPlays
 - 소개: hourplace라는 홈페이지를 클론하여 Ourplays라는 사이트를 구현해 보았습니다.
