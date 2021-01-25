@@ -1,5 +1,5 @@
 # Ourplays-frontend
-<a href="https://www.youtube.com/watch?v=7w4NNWwx0og&t=154s"><img src="https://i.ibb.co/rdLfYmr/image.png"></a>
+<a href="https://www.youtube.com/watch?v=7w4NNWwx0og&t=154s"><img src="https://i.ibb.co/rdLfYmr/image.png" width="700px"></a>
 <div>👆클릭하여 영상으로 이동</div>
 
 ## OurPlays
